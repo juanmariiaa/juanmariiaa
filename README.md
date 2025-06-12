@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Juan María
 
-<!--
-**juanmariiaa/juanmariiaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bienvenido a mi perfil de GitHub. Soy un desarrollador apasionado por la tecnología, con experiencia tanto en el backend como en el frontend. Me encanta construir soluciones completas que aporten valor real a las personas y los equipos.
 
-Here are some ideas to get you started:
+🌐 **Portfolio:**  
+👉 [juan-maria.vercel.app](https://juan-maria.vercel.app)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologías y herramientas que utilizo
+
+- 🧠 **Backend:**  
+  `Java` · `Spring Boot` · `Python` · `FastAPI` · `Flask`
+
+- 🎨 **Frontend:**  
+  `React` · `Angular` · `Next.js`
+
+- 🛠️ **Herramientas y metodologías:**  
+  `Git` · `Scrum` · `CI/CD` · `GitHub`
+
+## 📫 ¿Quieres contactarme?
+
+No dudes en visitar mi [portfolio](https://juan-maria.vercel.app) donde encontrarás más sobre mí, mis proyectos y formas de contacto.
+
+---
+
+¡Gracias por pasar por aquí! 🚀
