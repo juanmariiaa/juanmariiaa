@@ -35,7 +35,7 @@ Welcome to my GitHub profile. I'm a passionate full stack developer with a stron
 
 ## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanmariiaa&layout=compact&theme=tokyonight&langs_count=8)
 
 ---
 
